@@ -32,4 +32,4 @@ It enables:
 
 ## Results
 
-![results](https://raw.githubusercontent.com/aryyya/setup-vim/master/example.png)
+<p align="center"><img src="example.png"></p>
