@@ -32,4 +32,4 @@ It enables:
 
 ## Results
 
-![results](https://raw.githubusercontent.com/nerssi/nf-vim-setup/master/example.png)
+![results](https://raw.githubusercontent.com/aryyya/setup-vim/master/example.png)
