@@ -11,7 +11,7 @@ Warning: this will overwrite any existing `.vimrc` file in your home directory. 
 **Do it in one convenient command:**
 
 ```
-git clone https://github.com/nerssi/nf-vim-setup && cd nf-vim-setup && bash ./setup-vim.sh
+git clone https://github.com/aryyya/setup-vim && cd setup-vim && bash ./setup-vim.sh
 ```
 
 ## What does this do?
